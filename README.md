@@ -6,11 +6,13 @@ Tema: Bibliotecas e Frameworks
 - O que são bibliotecas(library)?
 
 > Com a intenção de organizar melhor nosso código, pode-se juntar várias funções em uma "coleção" de funções relacionadas ao tipo de problema que estamos solucionando. Portanto, uma BIBLIOTECA é uma coleção de códigos voltados para a resolução de determinados tipos de problemas.
+
 *Exemplos de Bibliotecas JavaScript* : Moment.js ; Chart.js ; Voca ; React ; [...]
 
 - O que são Frameworks?
 
 > Um FRAMEWORK pode ser feito a partir de uma coleção de padrões, APIs e até mesmo de bibliotecas. Ele já possui várias funcionalidades prontas e geralmente já tem um fluxo de trabalho ou estrutura a ser seguido.
+
 *Exemplos de Frameworks JavaScript* : Angular ; Vue.js ; Express ; LoopBack ; [...]
 
 - Como diferenciar Frameworks de Bibliotecas?
